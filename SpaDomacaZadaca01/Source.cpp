@@ -29,7 +29,7 @@ int main()
 	
 		window.clear();
 	
-		
+		//wtf
 		
 		
 			
